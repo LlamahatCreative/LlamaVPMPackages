@@ -1,15 +1,15 @@
 {
-    "name":"LlamaVRCPackageExample",
-    "id":"com.Llamahat.Example",
-    "url":"https://LlamahatCreative.github.io/LlamaVRCPackages-listing/index.json",
+    "name":"VPM",
+    "id":"com.Llamahat.VPM",
+    "url":"https://LlamahatCreative.github.io/VPM-listing/index.json",
     "author":{
-        "email":"LlamahatMedia@gmail.com",
+        "email":"Llamahatmedia@gmail.com",
         "name":"Llamahat",
         "url":"Llamahat.com"
     },
-    "description":"Just an example",
+    "description":"A place for me to list useful tools I use",
     "infoLink":{
-        "url":"https://github.com/LlamahatCreative/LlamaVRCPackages",
+        "url":"https://github.com/LlamahatCreative/VPM",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
