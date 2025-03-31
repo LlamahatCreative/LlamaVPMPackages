@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"LlamaVRCPackageExample",
+    "id":"com.Llamahat.Example",
+    "url":"https://LlamahatCreative.github.io/LlamaVRCPackages-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"LlamahatMedia@gmail.com",
+        "name":"Llamahat",
+        "url":"Llamahat.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Just an example",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/LlamahatCreative/LlamaVRCPackages",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
